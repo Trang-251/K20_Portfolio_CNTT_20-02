@@ -1,6 +1,6 @@
 # Bản 1
 
-kéo code của thầy về máy để chạy và tạo file README.md rồi đẩy code lên git.
+tải code của thầy về máy để chạy và tạo file README.md rồi đẩy code lên git.
 
 # Bản 2
 
